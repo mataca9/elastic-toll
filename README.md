@@ -1,6 +1,8 @@
 # elastic-toll
-
-##### Install elasticsearch with npm
+##### Requirements
+- Elasticsearch running on port 9200
+- Kibana
+##### Install elasticsearch js lib with npm
 ```
 npm install --save elasticsearch
 ```
