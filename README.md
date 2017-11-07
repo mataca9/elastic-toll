@@ -12,3 +12,6 @@ node configure.js
 ```
 node configure.js
 ```
+##### Import visualizations and dashboard
+There is 2 json files that represent the visualization and dashboard.
+At kibana's interface, import both files, remembering to import the visualizations first.
