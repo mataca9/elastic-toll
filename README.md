@@ -15,3 +15,10 @@ node configure.js
 ##### Import visualizations and dashboard
 There is 2 json files that represent the visualization and dashboard.
 At kibana's interface, import both files, remembering to import the visualizations first.
+
+
+##### Deleting index (for testing purposes)
+Use this cURL to delete the index with all its data
+```
+curl -XDELETE localhost:9200/toll
+```
